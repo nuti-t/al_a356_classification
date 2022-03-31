@@ -17,4 +17,7 @@ Prediction result:
 
 ![output_best](https://user-images.githubusercontent.com/47117440/161067908-5c851943-26e8-452b-a6e5-ee28f3e1d11d.png)
 
+ROC curve:
+
+
 For the full code and result, you can see it on the attached Jupyter notebook file.
