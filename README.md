@@ -14,5 +14,8 @@ This project is aimed to classify the Aluminium Al-A356 into 5 classes from the 
      weighted avg  0.9372    0.9327    0.9334      1485
 
 
+Prediction result:
+
+![output_best](https://user-images.githubusercontent.com/47117440/161076931-107b4051-ed1c-4595-b699-9f24db28cf23.png)
 
 For the full code and result, you can see it on the attached Jupyter notebook file.
