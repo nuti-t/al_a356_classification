@@ -19,3 +19,5 @@ ROC Curve:
 ![output_best](https://user-images.githubusercontent.com/47117440/161067908-5c851943-26e8-452b-a6e5-ee28f3e1d11d.png)
 
 For the full code and result, you can see it on the attached Jupyter notebook file.
+
+![ml_img](https://user-images.githubusercontent.com/47117440/161075789-d6c1b321-23fb-4139-9dd4-55c57ea39dfb.jpg)
