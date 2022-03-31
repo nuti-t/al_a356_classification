@@ -2,7 +2,7 @@
 
 This project is aimed to classify the Aluminium Al-A356 into 5 classes from the microstructure image. Al-A356 can be classified by Eutectic Silicon shape. The lower class is larger and longer than the higher class.
 
-![output](https://user-images.githubusercontent.com/47117440/161077803-21d5b92a-ecc4-4d0a-acde-ceddc238e7ab.png)
+![example_5_classes](https://user-images.githubusercontent.com/47117440/161078007-e2f30d86-ac2f-4db9-9a26-6539de4220fb.png)
 
 The main problem in Aluminium Al-A356 classification is the similarity of the adjacent classes which is very hard to classify by the human perceptual, so I use the CNNs(Convolutional Neural Networks) to solve this problem. My model has 93.27% accuracy , 0.9319 f1-score and 0.9389 recall.
 
