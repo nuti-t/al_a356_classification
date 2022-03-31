@@ -4,7 +4,9 @@ This project is aimed to classify the Aluminium Al-A356 into 5 classes from the 
 
 Prediction result:
 
+
  precision    recall  f1-score   support
+ 
      level 1     0.9765    0.9541    0.9652       305
      level 2     0.8329    0.9682    0.8954       314
      level 3     0.9754    0.9358    0.9552       296
