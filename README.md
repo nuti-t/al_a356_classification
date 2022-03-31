@@ -20,6 +20,8 @@ Prediction result:
      macro avg   0.9389    0.9319    0.9339      1485
      weighted avg  0.9372    0.9327    0.9334      1485
 
+ROC Curve:
+
 ![output_best](https://user-images.githubusercontent.com/47117440/161067908-5c851943-26e8-452b-a6e5-ee28f3e1d11d.png)
 
 For the full code and result, you can see it on the attached Jupyter notebook file.
