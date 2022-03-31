@@ -13,7 +13,7 @@ Prediction result:
      level 5     0.9253    0.8814    0.9028       295
      accuracy                        0.9327      1485
      macro avg   0.9389    0.9319    0.9339      1485
-   weighted avg  0.9372    0.9327    0.9334      1485
+     weighted avg  0.9372    0.9327    0.9334      1485
 
 ![output_best](https://user-images.githubusercontent.com/47117440/161067908-5c851943-26e8-452b-a6e5-ee28f3e1d11d.png)
 
