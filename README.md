@@ -23,3 +23,5 @@ Prediction result:
 ![output_best](https://user-images.githubusercontent.com/47117440/161076931-107b4051-ed1c-4595-b699-9f24db28cf23.png)
 
 For the full code and result, you can see it on the attached Jupyter notebook file.
+
+You can also see the code from Google colab link: https://colab.research.google.com/drive/1xn6B1JCLumftztDxt7V_k2BGV3z9rnzc?usp=sharing
