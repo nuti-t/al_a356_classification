@@ -27,4 +27,5 @@ For the full code and result, you can see it on the attached Jupyter notebook fi
 You can also see the code from Google colab link: https://colab.research.google.com/drive/1xn6B1JCLumftztDxt7V_k2BGV3z9rnzc?usp=sharing
 
 **Awards**
+
 My work got a chance to present at 40th Indrustrial Engineering Network (IE network) and got the best research title rewards
